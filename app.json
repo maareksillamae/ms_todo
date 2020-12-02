@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Maarek Sillamäe ToDo APP",
+    "description": "Maarek Sillamäe ToDo APP by React Native",
+    "slug": "Maarek_Sillamae_ToDo_APP",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#f23657"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "co.chaesh.maarek"
+    }
+  
+  }
+}
